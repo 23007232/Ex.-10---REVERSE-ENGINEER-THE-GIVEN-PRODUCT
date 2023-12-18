@@ -1,6 +1,6 @@
 # Ex. 10 - REVERSE ENGINEER THE GIVEN PRODUCT
 
-### DATE: 
+### DATE: 18/12/2023
 
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
@@ -20,7 +20,11 @@
 ### Step 7.:- Select the Move option for design print position in build tack plate and then after select the Rotate option for rotating the design easily printed and used low print material.
 ### Step 8.:- select the Scale option for design scale according to build tack plate area and then
 ### after click the start option and select printing option standard as shown in below figure.
+## ![image](https://github.com/23007232/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/139115574/c884b30f-da36-4654-8755-53de88236437)
+
 ### Step 9.:- After completing the all setting then click the Slice option and export the file in gcode Format.
+## ![image](https://github.com/23007232/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/139115574/dd677c1b-16d6-4534-9165-d607cc7a1f91)
+
 ### Step 10.:- After generate the gcode format then follow the these instruction 
   ###   ●	Switch on the 3d printer.
   ###   ●	Place your Pen drive in USB.
@@ -31,12 +35,16 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+## ![Screenshot 2023-12-18 160130](https://github.com/23007232/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/139115574/6a8640ad-23b6-4c22-8012-831e93a61e6f)
+
 
 ### Output:
+## ![image](https://github.com/23007232/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/139115574/30cecdb7-eff6-425d-ae6c-5e26c440e3ba)
 
 
-### Name:
-### Register Number:
+
+### Name:Pavithra P
+### Register Number:23007232
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
